@@ -6,8 +6,8 @@ tags: [java,cryptography]
 ---
 
 
-One of the simplest cryptographic algorithms is **Caesar cipher**. It's not really
-secure, but sometimes you may encounter it in some exercises or crackmes.
+One of the simplest cryptographic algorithms is **Caesar cipher**. Maybe it's
+not really secure, but shows how the synchronous ciphers work.
 
 <!--more-->
 
@@ -15,13 +15,14 @@ secure, but sometimes you may encounter it in some exercises or crackmes.
 # Intro
 
 The cipher method is named after Julius Caesar, who presumably have used it to
-encrypt his military messages (see the history section at [Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher)). Maybe at
-that time it was the state of the art. Anyway, the algorithm is good to know
+encrypt his military messages (see the history section at
+[Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher)). Maybe at that time it
+was the state of the art. Anyway, the algorithm is good to know
 in case you happen to find yourself in the middle of war against the Roman
 Empire and will need to decrypt their messages to win the war! :wink:
 
 
-# The algorithm
+# The Algorithm
 
 The steps of the the **Caesar cipher** algorithm are as follows:
 
@@ -226,5 +227,5 @@ public class CaesarCipherTest {
 
 # References
 
--   [Algorithms and Data Structures Tutorial](http://farenda.com/algorithms-and-data-structures)
+-   [Algorithms and Data Structures Tutorial](https://farenda.com/algorithms-and-data-structures)
 
