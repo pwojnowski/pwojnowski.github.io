@@ -196,6 +196,6 @@ Here is the same code logic, but with readable, explicit processing steps -
     understand, and reason about.
 
 
-# References:
+# References
 
 -   "*Refactoring to Design Patterns*" by *Joshua Kerievsky*
