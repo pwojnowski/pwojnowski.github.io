@@ -2,12 +2,12 @@
 title: Caesar cipher in Java
 date: 2017-07-21 22:00:00 +0200
 categories: [Algorithms]
-tags: [java,cryptography]
+tags: [algorithms,java,security,cryptography]
 ---
 
 
-One of the simplest cryptographic algorithms is **Caesar cipher**. Maybe it's
-not really secure, but shows how the synchronous ciphers work.
+One of the simplest cryptographic algorithms is **Caesar cipher**. Although it
+is not secure at all, it shows how basic synchronous ciphers work.
 
 <!--more-->
 
