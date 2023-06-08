@@ -1,7 +1,7 @@
 ---
 title: Quicksort in Java
 date: 2016-12-16 12:40:00 +0200
-tags: [algorithms,sorting,java]
+tags: [algorithms,java]
 ---
 
 Quicksort is one of the fastest sorting algorithms. In this article we implement

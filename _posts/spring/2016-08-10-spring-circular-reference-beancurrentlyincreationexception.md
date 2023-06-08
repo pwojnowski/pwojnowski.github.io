@@ -1,7 +1,6 @@
 ---
 title: Spring Circular Reference - BeanCurrentlyInCreationException
 date: 2016-08-10 22:01:00 +0200
-categories: [Spring Framework]
 tags: [java,spring]
 ---
 

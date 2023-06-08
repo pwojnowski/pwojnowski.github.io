@@ -1,7 +1,6 @@
 ---
 title: Spring Constructor Injection
 date: 2016-06-13 07:01:00 +0200
-categories: [Spring Framework]
 tags: [java,spring]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Top 10 sites to practice programming
 date: 2016-09-19 17:20:00 +0200
-categories: [Algorithms]
+tags: [algorithms]
 ---
 
 

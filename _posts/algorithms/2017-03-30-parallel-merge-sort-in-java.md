@@ -1,7 +1,7 @@
 ---
 title: Parallel Merge Sort in Java
 date: 2017-03-30 19:40:00 +0200
-tags: [algorithms,java,concurrency]
+tags: [algorithms,java]
 ---
 
 *Divide and Conquer* algorithms are great subject for **parallelism**. Here we

@@ -1,7 +1,6 @@
 ---
 title: How to mock Java classes in Clojure
 date: 2016-04-26 07:01:00 +0200
-categories: [Clojure]
 tags: [clojure]
 ---
 

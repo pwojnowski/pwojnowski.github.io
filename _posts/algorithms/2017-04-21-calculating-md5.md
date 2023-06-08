@@ -1,7 +1,7 @@
 ---
 title: Calculating MD5 hash
 date: 2017-04-21 12:30:00 +0200
-tags: [security,java,md5,cryptography]
+tags: [java,security]
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: Clojure transients - fast mutations in persistent world
 date: 2016-12-21 07:01:00 +0200
-categories: [Clojure]
 tags: [clojure]
 ---
 

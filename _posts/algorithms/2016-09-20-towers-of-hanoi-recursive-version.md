@@ -1,8 +1,7 @@
 ---
 title: Towers of Hanoi recursive version
 date: 2016-09-20 15:40:00 +0200
-categories: [Algorithms]
-tags: [java]
+tags: [java,algorithms]
 ---
 
 

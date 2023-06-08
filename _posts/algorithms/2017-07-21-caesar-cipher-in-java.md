@@ -1,8 +1,7 @@
 ---
 title: Caesar cipher in Java
 date: 2017-07-21 22:00:00 +0200
-categories: [Algorithms]
-tags: [algorithms,java,security,cryptography]
+tags: [algorithms,java,security]
 ---
 
 

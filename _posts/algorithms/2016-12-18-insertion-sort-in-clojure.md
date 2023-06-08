@@ -1,8 +1,7 @@
 ---
 title: Insertion Sort in Clojure
 date: 2016-12-18 17:12:00 +0200
-categories: [Clojure]
-tags: [clojure,algorithms,sorting]
+tags: [clojure,algorithms]
 ---
 
 Insertion sort in Clojure can be implemented in different ways. In this post we

@@ -1,8 +1,7 @@
 ---
 title: Spring Boot "Hello, World"
 date: 2015-06-09 10:05:00 +0200
-categories: [Spring Framework]
-tags: [java,spring,spring-boot]
+tags: [java,spring]
 ---
 
 

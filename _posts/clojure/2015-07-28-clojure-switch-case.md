@@ -1,7 +1,6 @@
 ---
 title: Clojure switch-case
 date: 2015-07-28 07:01:00 +0200
-categories: [Clojure]
 tags: [clojure]
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Spring Field Injection
 date: 2016-07-12 07:01:00 +0200
-categories: [Spring Framework]
 tags: [java,spring]
 ---
 

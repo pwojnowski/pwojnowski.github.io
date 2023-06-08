@@ -1,7 +1,6 @@
 ---
 title: Clojure for loop
 date: 2016-07-22 19:55:00 +0200
-categories: [Clojure]
 tags: [clojure]
 ---
 

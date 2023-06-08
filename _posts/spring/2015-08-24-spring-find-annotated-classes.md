@@ -1,7 +1,6 @@
 ---
 title: Spring find annotated classes
 date: 2015-08-24 07:01:00 +0200
-categories: [Spring Framework]
 tags: [java,spring]
 ---
 

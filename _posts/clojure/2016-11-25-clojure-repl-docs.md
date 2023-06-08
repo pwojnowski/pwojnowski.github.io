@@ -1,7 +1,6 @@
 ---
 title: Clojure REPL docs
 date: 2016-11-25 17:05:00 +0200
-categories: [Clojure]
 tags: [clojure]
 ---
 

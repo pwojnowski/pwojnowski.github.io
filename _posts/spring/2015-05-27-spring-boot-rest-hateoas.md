@@ -1,8 +1,7 @@
 ---
 title: Spring Boot REST HATEOAS
 date: 2015-05-27 18:24:00 +0200
-categories: [Spring Framework]
-tags: [java,spring,spring-boot,rest]
+tags: [java,spring]
 ---
 
 

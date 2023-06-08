@@ -1,7 +1,7 @@
 ---
 title: Composed Method Pattern explained
 date: 2016-12-02 23:10:00 +0200
-tags: [solid,refactoring,clean-code,java,clojure,patterns]
+tags: [software-design,java,clojure]
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: Spring component scan exclude
 date: 2015-12-21 07:01:00 +0200
-categories: [Spring Framework]
 tags: [java,spring]
 ---
 

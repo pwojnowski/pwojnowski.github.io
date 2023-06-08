@@ -1,7 +1,7 @@
 ---
 title: Merge Sort in Java
 date: 2016-11-11 14:10:00 +0200
-tags: [algorithms,sorting,java]
+tags: [algorithms,java]
 ---
 
 In this post we'll implement Merge Sort in Java. It's fast, divide and conquer,
