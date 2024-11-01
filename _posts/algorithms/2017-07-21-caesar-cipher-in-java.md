@@ -148,7 +148,7 @@ public class CaesarCipher {
 
 # Unit tests
 
-As always, the best way to verify is to write some [tests](http://farenda.com/junit-tutorial):
+As always, the best way to verify is to write some tests:
 
 ```java
 package com.farenda.tutorials.algorithms.strings;

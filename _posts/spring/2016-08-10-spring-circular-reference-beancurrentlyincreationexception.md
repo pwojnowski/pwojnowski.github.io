@@ -86,7 +86,7 @@ public class BookRepository {
 
 # The application runner
 
-The simplest [Spring Boot](http://farenda.com/java/spring-boot-hello-world) app to run the code:
+The simplest Spring Boot app to run the code:
 
 ```java
 package com.farenda.spring.tutorial.injection.conflict;
